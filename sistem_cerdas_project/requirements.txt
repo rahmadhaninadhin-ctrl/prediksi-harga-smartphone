@@ -1,0 +1,7 @@
+Django>=5.0
+gunicorn
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
